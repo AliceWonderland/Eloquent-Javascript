@@ -65,7 +65,7 @@ function dominantDirection(text) {
 }
 
 function test(str){
-	str.split('').forEach(ele => console.log(ele.codePointAt	(0)));
+	str.split('').forEach(ele => console.log(ele.codePointAt(0)));
 }
 
 // test("مساء الخير");
